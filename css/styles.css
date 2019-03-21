@@ -1,0 +1,27 @@
+@media screen and (max-width: 1000px) and (min-width: 600px) {
+  body {
+    background-color: blue;
+    color: white;
+  }
+}
+
+h1 {
+  text-align: center;
+}
+.column {
+  width: 29%;
+  float:left;
+  margin: 5px;
+  text-align: center;
+  border: 2px solid blue;
+  background-color: yellow;
+}
+
+.column img {
+  width: 85%;
+  border: 2px solid blue;
+}
+
+.column p {
+  border: 2px solid blue;
+}
